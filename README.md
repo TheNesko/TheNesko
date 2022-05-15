@@ -16,7 +16,7 @@ My code is still buggy AF :skull::fire:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheNesko&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheNesko&repo=PythonRpgRemake&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheNesko&repo=PythonRpgRemake&theme=radical)](https://github.com/TheNesko/PythonRpgRemake)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNesko&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNesko&theme=radical)]
 
