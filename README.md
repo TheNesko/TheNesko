@@ -18,5 +18,5 @@ My code is still buggy AF :skull::fire:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheNesko&repo=PythonRpgRemake&theme=radical)](https://github.com/TheNesko/PythonRpgRemake)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNesko&theme=radical)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNesko&theme=radical)](https://github.com/TheNesko?tab=repositories)
 
