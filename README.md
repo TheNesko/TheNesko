@@ -1,5 +1,5 @@
 <h1 align="center">
-👋 Hi, I’m @TheNesko
+👋 Hi, I’m @CursedIndel
 </h1>
 
 ##  :man_technologist:About me:
