@@ -46,13 +46,13 @@ My code is still buggy AF :skull::fire:
 
 <h2>Repos and stats</h2>
 
-<table>
 
-  <tr>
-    <td colspan="2" align="center">
+
+<div align="center">
       <a href="https://github.com/TheNesko"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNesko&layout=compact&theme=radical&hide_border=true"></a>
-    </td>
-  </tr>
+</div>
+  
+<table>
   
   <tr>
     <td>
@@ -62,7 +62,9 @@ My code is still buggy AF :skull::fire:
       <a href="https://github.com/TheNesko/Game_Connected"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TheNesko&repo=Game_Connected&theme=radical&hide_border=true"></a>
     </td>
   </tr>
+</table>
   
+<table>
   <tr>
     <td>
       <a href="https://github.com/TheNesko/PythonRpgRemake"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TheNesko&repo=PythonRpgRemake&theme=radical&hide_border=true"></a>
