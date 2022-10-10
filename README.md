@@ -21,7 +21,7 @@ My code is still buggy AF :skull::fire:
 
 <p>
 
-<a href="https://github.com/TheNesko" target="_blank">
+<a href="https://github.com/TheNesko">
 <img alt="Python" width="50px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/python.png">
 
 <img alt="HTML5" width="50px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/html.png">
@@ -43,36 +43,14 @@ My code is still buggy AF :skull::fire:
 
 
 <div align="center">
-
 <h2>Repos and stats</h2>
 
+<a href="https://github.com/TheNesko"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNesko&layout=compact&theme=radical&hide_border=true"></a>
 
+<a href="https://github.com/TheNesko/Sand-Simulation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TheNesko&repo=Sand-Simulation&theme=radical&hide_border=true"></a>
+<a href="https://github.com/TheNesko/Game_Connected"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TheNesko&repo=Game_Connected&theme=radical&hide_border=true"></a>
 
-<div align="center">
-      <a href="https://github.com/TheNesko"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNesko&layout=compact&theme=radical&hide_border=true"></a>
-</div>
-  
-<table>
-  
-  <tr>
-    <td>
-      <a href="https://github.com/TheNesko/Sand-Simulation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TheNesko&repo=Sand-Simulation&theme=radical&hide_border=true"></a>
-    </td>
-    <td>
-      <a href="https://github.com/TheNesko/Game_Connected"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TheNesko&repo=Game_Connected&theme=radical&hide_border=true"></a>
-    </td>
-  </tr>
-</table>
-  
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/TheNesko/PythonRpgRemake"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TheNesko&repo=PythonRpgRemake&theme=radical&hide_border=true"></a>
-    </td>
-    <td>
-      <a href="https://github.com/TheNesko/Saper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TheNesko&repo=Saper&theme=radical&hide_border=true"></a>
-    </td>
-  </tr>
-  
-</table>
+<a href="https://github.com/TheNesko/PythonRpgRemake"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TheNesko&repo=PythonRpgRemake&theme=radical&hide_border=true"></a>
+<a href="https://github.com/TheNesko/Saper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TheNesko&repo=Saper&theme=radical&hide_border=true"></a>
+
 </div>
