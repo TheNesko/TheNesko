@@ -3,7 +3,7 @@
 👋 Hi, I’m @CursedIndel
 </h1>
 
-<img src="https://yt3.ggpht.com/ytc/AMLnZu_EZYS7XOy0q_9HOMMaMOSEZ6OB-85i3ABQsOE=s48-c-k-c0x00ffffff-no-rj">Go sub to the giga chad [Big Rando](https://www.youtube.com/c/RandytheSequel) 
+<a target="_blank" href="https://www.youtube.com/c/RandytheSequel"><img src="https://yt3.ggpht.com/ytc/AMLnZu_EZYS7XOy0q_9HOMMaMOSEZ6OB-85i3ABQsOE=s48-c-k-c0x00ffffff-no-rj">Go sub to the giga chad Big Rando</a>
 
 ##  :man_technologist: <b>About me</b>:
 
